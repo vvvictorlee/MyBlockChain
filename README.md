@@ -2,25 +2,25 @@
 区块链知识及源码分享.
 
 ## 目录
-1. [智能合约](#contract)
+1. [智能合约](#smart-contracts)
 1. [DApp](#dapp)
 1. [钱包DApp](#wallets)
-1. [去中心化应用前端](#react)
-1. [EOS工具类源码](#eostools)
-1. [其他](#eosinfo)
-1. [EOS学习资料](#eosinfo)
-1. [区块链学习资料](#bcinfo)
+1. [去中心化应用前端](#eos-frontend-react)
+1. [EOS工具类源码](#eos-tools)
+1. [其他](#eos-info)
+1. [EOS学习资料](#eos-info)
+1. [区块链学习资料](#blockchain-info)
 
 
 ---
 
-## 智能合约<span id='contract'></span>
+## Smart Contracts
 
 - **[eos-contract](https://github.com/vvvictorlee/eos-contract)**. C++.Tutorial on writing smart contracts on EOS EOS智能合约教程,从零开始学习EOS智能合约.
 - **[eosio.contracts](https://github.com/vvvictorlee/eosio.contracts)**. WebAssembly.
 - [eosio.forum](https://github.com/vvvictorlee/eosio.forum). C++ .
 
-## DApp<span id='dapp'></span>
+## DApp
 
 - **[xdac-eos-dapp](https://github.com/vvvictorlee/xdac-eos-dapp)**.  JavaScript.
 - [Scatter-1](https://github.com/vvvictorlee/Scatter-1). Extension that allows you to sign transactions with your private keys securely from within the browser without ever exposing them.JavaScript.
@@ -47,7 +47,7 @@
 - [socelec](https://github.com/vvvictorlee/eosio.forum). my football gambling dapp front end， which is based on eos contract, and build with electron.
  JavaScript.
 
-## EOS钱包<span id='wallet'></span>
+## EOS wallets
 
 - [Awesome-EOS](https://github.com/vvvictorlee/eos-smart-contracts). Awesome EOS - a curated list of awesome EOS.
 - [eos-smart-contracts](https://github.com/vvvictorlee/). A playgorund for EOSIO dapp development
@@ -65,21 +65,21 @@
 - [eos-paper-wallet](https://github.com/vvvictorlee/eos-paper-wallet). Paper Wallet for EOS.JavaScript.
 
 
-## 去中心化应用前端<span id='react'>React</span>
+## DApp FrontEnd React
 
 - [openchain-js](https://github.com/vvvictorlee/openchain-js). JavaScript Openchain client library for Node.js and the browser.JavaScript .
 - [reactjs101](https://github.com/vvvictorlee/reactjs101). 从零开始学 ReactJS（ReactJS 101）是一本希望让初学者一看就懂的 ReactJS 中文入门教学书，由浅入深学习 ReactJS 生态系统 (Flux, Redux, React Router, ImmutableJS, React Native, Relay/GraphQL etc.).
 - [vscode-react-sample](https://github.com/vvvictorlee/vscode-react-sample). React todo demo for Build conference
 .JavaScript.
 
-## EOS工具类源码<span id='eostools'></span>
+## EOS Tools
 
 - [EOSTracker](https://github.com/vvvictorlee/EOSTracker). EOS Tracker: Real time block explorer for EOS Blockchain
  HTML .
 - [eos-generate-key](https://github.com/vvvictorlee/eos-generate-key). 用于EOS私钥和公钥的生成及检测.JavaScript .
 - [eos4j](https://github.com/vvvictorlee/eos4j). eos4j create by espritblock.Java.
 
-## 其他<span id='misc'></span>
+## Misc
 
 - [eos-key](https://github.com/vvvictorlee/eos-key).Offline EOS Key Generator and Validator.JavaScript.
 
@@ -95,14 +95,12 @@
 - [EOS-Jungle-Testnet](https://github.com/vvvictorlee/EOS-Jungle-Testnet). EOS.io Jungle Testnet by CryptoLions.io
 。Shell.
 
-## EOS学习资料<span id='eosinfo'></span>
+## EOS Info
 
 - [eos_dapp_development_cn](https://github.com/vvvictorlee/eos_dapp_development_cn).EOS开发文档.
 - [blockchain](https://github.com/vvvictorlee/blockchain). 区块链学习资料整理.
 
-
-- 
-## 区块链学习资料<span id='bcinfo'></span>
+## Blockchain Info
 - [blockchain-papers](https://github.com/vvvictorlee/blockchain-papers). A curated list of academic blockchain-related papers.
 - [eosmainnet-guide](https://github.com/vvvictorlee/). eosmainnet-guide.
 
